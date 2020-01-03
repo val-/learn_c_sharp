@@ -1,0 +1,11 @@
+/home/val/repos/learn/C#/pow/bin/Debug/netcoreapp3.1/pow
+/home/val/repos/learn/C#/pow/bin/Debug/netcoreapp3.1/pow.deps.json
+/home/val/repos/learn/C#/pow/bin/Debug/netcoreapp3.1/pow.runtimeconfig.json
+/home/val/repos/learn/C#/pow/bin/Debug/netcoreapp3.1/pow.runtimeconfig.dev.json
+/home/val/repos/learn/C#/pow/bin/Debug/netcoreapp3.1/pow.dll
+/home/val/repos/learn/C#/pow/bin/Debug/netcoreapp3.1/pow.pdb
+/home/val/repos/learn/C#/pow/obj/Debug/netcoreapp3.1/pow.csprojAssemblyReference.cache
+/home/val/repos/learn/C#/pow/obj/Debug/netcoreapp3.1/pow.AssemblyInfoInputs.cache
+/home/val/repos/learn/C#/pow/obj/Debug/netcoreapp3.1/pow.AssemblyInfo.cs
+/home/val/repos/learn/C#/pow/obj/Debug/netcoreapp3.1/pow.dll
+/home/val/repos/learn/C#/pow/obj/Debug/netcoreapp3.1/pow.pdb

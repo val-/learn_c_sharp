@@ -1,0 +1,11 @@
+/home/val/repos/learn/C#/summ-couple/bin/Debug/netcoreapp3.1/summ-couple
+/home/val/repos/learn/C#/summ-couple/bin/Debug/netcoreapp3.1/summ-couple.deps.json
+/home/val/repos/learn/C#/summ-couple/bin/Debug/netcoreapp3.1/summ-couple.runtimeconfig.json
+/home/val/repos/learn/C#/summ-couple/bin/Debug/netcoreapp3.1/summ-couple.runtimeconfig.dev.json
+/home/val/repos/learn/C#/summ-couple/bin/Debug/netcoreapp3.1/summ-couple.dll
+/home/val/repos/learn/C#/summ-couple/bin/Debug/netcoreapp3.1/summ-couple.pdb
+/home/val/repos/learn/C#/summ-couple/obj/Debug/netcoreapp3.1/summ-couple.csprojAssemblyReference.cache
+/home/val/repos/learn/C#/summ-couple/obj/Debug/netcoreapp3.1/summ-couple.AssemblyInfoInputs.cache
+/home/val/repos/learn/C#/summ-couple/obj/Debug/netcoreapp3.1/summ-couple.AssemblyInfo.cs
+/home/val/repos/learn/C#/summ-couple/obj/Debug/netcoreapp3.1/summ-couple.dll
+/home/val/repos/learn/C#/summ-couple/obj/Debug/netcoreapp3.1/summ-couple.pdb
